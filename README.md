@@ -4,6 +4,6 @@
   Conceitos do Node.js
 </h2>
 
-<h3>
+<h3 align="center">
   Semana 1 - backend
 </h3>
